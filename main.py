@@ -1,3 +1,5 @@
+#Bagian ilham : main.py
+#Bagian Farid : Bank.py, customer.py
 import sys
 from customer import Customer
 from Bank import Bank
